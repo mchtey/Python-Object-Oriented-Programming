@@ -1,2 +1,3 @@
-# Python-Object-Oriented-Programming
- Nesne Tabanlı Programlama Icerikleri
+# Python-Nesne-Tabanli-Programlama
+
+Bu repo Nesne Tabanli Programlama alanında dökümante edilecektir.
